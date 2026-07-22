@@ -1,0 +1,5 @@
+API_BASE_URL = https:/$()/api.example.com/
+APP_ENVIRONMENT = PROD
+APP_DISPLAY_NAME = BankApp
+PRODUCT_NAME = $(APP_DISPLAY_NAME)
+PRODUCT_BUNDLE_IDENTIFIER = com.rruiz.bankapp
